@@ -23,45 +23,7 @@ I specialize in developing modern web and mobile applications using React, Node.
 
 ---
 
-##  Technical Skills
 
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,java" />
-</p>
-
-### Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### Programming & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
-
----
-
-##  Connect With Me
-
--  Email: abshircade31@gmail.com
--  GitHub: https://github.com/AbshirAdan
-
----
-
-<div align="center">
-
-###  Code Today. Create Tomorrow.
 
 </div>
 
